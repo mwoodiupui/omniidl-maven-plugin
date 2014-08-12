@@ -11,8 +11,7 @@
 
   <name>omniidl Maven Plugin</name>
   <description>Compile CORBA IDL to C++ using OmniORB's omniidl.</description>
-  <!-- FIXME change it to the project's website -->
-  <url>http://maven.apache.org</url>
+  <url>https://github.com/mwoodiupui/omniidl-maven-plugin</url>
 
   <licenses>
       <license>
@@ -22,9 +21,9 @@
   </licenses>
 
   <scm>
-      <connection><!-- TODO --></connection>
-      <developerConnection><!-- TODO --></developerConnection>
-      <url><!-- TODO --></url>
+      <connection>https://github.com/mwoodiupui/omniidl-maven-plugin.git</connection>
+      <developerConnection>git@github.com:mwoodiupui/omniidl-maven-plugin.git</developerConnection>
+      <url>https://github.com/mwoodiupui/omniidl-maven-plugin</url>
   </scm>
 
   <properties>
